@@ -41,7 +41,7 @@ src
 
 1. Clone the repository
 
-git clone <repository-link>
+git clone <https://github.com/KarthikeyanKrishnan-S/Lost-found-management-system-java.git>
 
 2. Open the project in any Java IDE
 
